@@ -18,7 +18,7 @@
 ---
 
 ## 使用说明
-Github网页渲染存在部分问题，建议clone到本地使用VScode插件进行渲染
+Github网页渲染存在部分问题，建议Clone到本地使用专业的MarkDown软件（如Typora）进行渲染（由于笔记公式均使用Latex编辑，因此注意开启Latex公式内联渲染）
 
 ---
 
